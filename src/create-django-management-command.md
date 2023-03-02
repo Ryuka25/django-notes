@@ -118,7 +118,7 @@ class Command(BaseCommand):
         parser.add_argument(
             '-p',
             '--prefix',
-            type=str
+            type=str,
             help='Define a username prefix',
         )
     
