@@ -4,6 +4,7 @@ List of topics:
 
 - [Create Django management command](create-django-management-command.md)
 - [Crontab](crontab.md)
+- [Setting up signals](setting-up-signals.md)
 
 ## Git
 
