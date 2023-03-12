@@ -6,6 +6,7 @@ List of topics:
 - [Crontab](crontab.md)
 - [Setting up signals](setting-up-signals.md)
 - [Serving Uploaded File](serving-uploaded-file.md)
+- [Database configuration](database-configuration.md)
 
 ## Git
 
@@ -14,3 +15,4 @@ List of topics:
 ## Errors
 
 - [Unable to import Psycopg2](errors/unable-to-import-psycopg2.md)
+- [Setting up mailhog on MacOS](errors/setting-up-mailhog-on-macos.md)
